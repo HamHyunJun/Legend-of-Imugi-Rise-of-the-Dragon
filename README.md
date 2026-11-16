@@ -9,3 +9,9 @@
 ## 기획 문서
 
 전체 기획 구조는 [`docs/design/`](docs/design/00_개요와_시스템구조.md)에 있습니다.
+
+## 개발 시작하기
+
+- 엔진: **Godot 4.7.2-stable** (Compatibility 렌더러, 가로 모드, arm64 Android)
+- 설치, 테스트 명령, Android 빌드와 기기 확인 방법: [`docs/dev/개발환경_가이드.md`](docs/dev/개발환경_가이드.md)
+- PR마다 GitHub Actions가 데이터 검증, 세이브 테스트, 디버그 APK 빌드를 실행하고 APK를 아티팩트로 올린다.

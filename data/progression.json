@@ -1,0 +1,5 @@
+{
+  "growth_stages": ["hatchling", "adult", "glider", "dragon", "awakened", "divine"],
+  "level_max": 30,
+  "exp_curve": { "base": 100, "growth": 1.25 }
+}

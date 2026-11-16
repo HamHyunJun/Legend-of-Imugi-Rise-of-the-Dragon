@@ -1,0 +1,18 @@
+{
+  "grades": {
+    "micro":  { "amount": 2,   "tendency": 1,  "capped": true },
+    "small":  { "amount": 10,  "tendency": 5 },
+    "medium": { "amount": 30,  "tendency": 15 },
+    "large":  { "amount": 60,  "tendency": 30 },
+    "huge":   { "amount": 100, "tendency": 50 }
+  },
+  "micro_cap_per_region_stage": 30,
+  "direction_threshold": 20,
+  "traits": [
+    { "id": "trait.yang_guardian", "range": [60, 100],   "mods": { "heal": 0.2, "shield_chance": 0.1 } },
+    { "id": "trait.yang_warmth",   "range": [20, 59],    "mods": { "heal": 0.1 } },
+    { "id": "trait.balance",       "range": [-19, 19],   "mods": { "skill_charge": 0.15 } },
+    { "id": "trait.yin_shade",     "range": [-59, -20],  "mods": { "crit": 0.1, "detect_range": -0.15 } },
+    { "id": "trait.yin_dominion",  "range": [-100, -60], "mods": { "drain": 0.2, "ambush_mult": 2.0 } }
+  ]
+}

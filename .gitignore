@@ -1,0 +1,20 @@
+# Godot 4 캐시와 임포트 결과물
+.godot/
+/android/
+*.translation
+
+# 빌드 산출물
+/builds/
+*.apk
+*.aab
+*.idsig
+
+# 서명 키(절대 커밋하지 않는다)
+*.keystore
+*.jks
+export_credentials.cfg
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+*.tmp

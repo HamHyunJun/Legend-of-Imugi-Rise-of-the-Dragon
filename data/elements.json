@@ -1,0 +1,7 @@
+[
+  { "id": "wood",  "name": "목(木)", "color": "#3FAF6A", "field_ability": "ability.growth",  "nest_theme": "theme.wood",  "generates": "fire",  "overcomes": "earth" },
+  { "id": "fire",  "name": "화(火)", "color": "#D9482B", "field_ability": "ability.ignite",  "nest_theme": "theme.fire",  "generates": "earth", "overcomes": "metal" },
+  { "id": "earth", "name": "토(土)", "color": "#C9A23F", "field_ability": "ability.quake",   "nest_theme": "theme.earth", "generates": "metal", "overcomes": "water" },
+  { "id": "metal", "name": "금(金)", "color": "#C8CCD4", "field_ability": "ability.cleave",  "nest_theme": "theme.metal", "generates": "water", "overcomes": "wood" },
+  { "id": "water", "name": "수(水)", "color": "#2E6FD1", "field_ability": "ability.current", "nest_theme": "theme.water", "generates": "wood",  "overcomes": "fire" }
+]
