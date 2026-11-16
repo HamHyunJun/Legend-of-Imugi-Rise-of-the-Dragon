@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- 임시 앱 아이콘: 태극 바탕 위 여의주. M10에서 정식 아트로 교체한다. -->
+  <rect width="256" height="256" rx="48" fill="#141821"/>
+  <circle cx="128" cy="128" r="92" fill="#e9e4d4"/>
+  <path d="M128 36a92 92 0 0 1 0 184a46 46 0 0 1 0-92a46 46 0 0 0 0-92z" fill="#2b3240"/>
+  <circle cx="128" cy="82" r="14" fill="#2b3240"/>
+  <circle cx="128" cy="174" r="14" fill="#e9e4d4"/>
+  <circle cx="128" cy="128" r="30" fill="#3faf6a" opacity="0.85"/>
+</svg>
