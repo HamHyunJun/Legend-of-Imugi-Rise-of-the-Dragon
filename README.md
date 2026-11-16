@@ -5,3 +5,7 @@
 
 - 엔진: Godot 4
 - 플랫폼: Android (로컬 싱글 플레이)
+
+## 기획 문서
+
+전체 기획 구조는 [`docs/design/`](docs/design/00_개요와_시스템구조.md)에 있습니다.
